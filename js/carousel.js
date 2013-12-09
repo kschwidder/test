@@ -19,7 +19,7 @@
 
 
 +function ($) { "use strict";
-                              tzutzutzutzutr
+
   // CAROUSEL CLASS DEFINITION
   // =========================
 
